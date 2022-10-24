@@ -1,10 +1,10 @@
-### Hello 👩🏻‍💻
-[![Twitter Follow](https://img.shields.io/twitter/follow/jenCodes?style=social)](https://twitter.com/jenCodes)
-[![Linkedin Follow](https://img.shields.io/badge/jenCodes-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jenCodes/)
-[![GitHub followers](https://img.shields.io/github/followers/luu-jennifer?style=social)](https://github.com/luu-jennifer)
+### Hello ✨
+[![Twitter Follow](https://img.shields.io/twitter/follow/jenCodes?style=social)](https://twitter.com/jenCodes) 
+[![Linkedin Follow](https://img.shields.io/badge/jenCodes-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jenCodes/) 
+[![GitHub followers](https://img.shields.io/github/followers/luu-jennifer?style=social)](https://github.com/luu-jennifer) 
 
 
-## My name is [Jen Luu](https://jenCodes.com) and I am a Web Developer 👩🏻‍💻
+## My name is [Jen Luu](https://jenCodes.com) & I am a Web Developer 👩🏻‍💻
 
 - 💭 I’m currently working on ...
 - ⚛️ I’m currently learning React

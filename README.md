@@ -4,7 +4,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/luu-jennifer?style=social)](https://github.com/luu-jennifer)
 
 
-## My name is [Jen Luu](https://jenCodes.com){:target="_blank"} and I am a Web Developer 👩🏻‍💻
+## My name is [Jen Luu](https://jenCodes.com {:target="_blank"}) and I am a Web Developer 👩🏻‍💻
 
 - 💭 I’m currently working on ...
 - ⚛️ I’m currently learning React

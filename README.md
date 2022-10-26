@@ -24,4 +24,4 @@
 </div>
 
 ##
-[![luu-jennifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=luu-jennifer&show_icons=true&theme=radical&hide=stars,issues)](https://github.com/luu-jennifer/github-readme-stats)
+[![luu-jennifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=luu-jennifer&show_icons=true&theme=radical&hide=stars,issues)](https://github.com/luu-jennifer)

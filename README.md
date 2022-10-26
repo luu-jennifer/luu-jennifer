@@ -12,10 +12,22 @@
 <!-- - 🧘🏻‍♀️ Pronouns: She/Her -->
 
 ## ✨My Skills include: 
-<img width="35px" src="./assets/html5.png" align="center" alt="HTML5" title="HTML5"> <img width="35px" src="./assets/css3.png" align="center" alt="CSS3" title="CSS3"> <img width="35px" src="./assets/sass.png" align="center" alt="SCSS" title="SCSS"> <img width="35px" src="./assets/javascript.png" align="center" alt="JavaScript" title="JavaScript"> <img width="35px" src="./assets/react.png" align="center" alt="React.js" title="React.js"> <img width="35px" src="./assets/mysql.png" align="center" alt="MySQL" title="MySQL"> <img width="35px" src="./assets/vscode.png" align="center" alt="Visual Studio Code" title="Visual Studio Code"> <img width="35px" src="./assets/firebase.png" align="center" alt="Firebase" title="Firebase">
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="Javascript" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" title="jQuery" alt="jQuery" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mySQL" alt="mySQL" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
+</div>
 
-
-[![luu-jennifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=luu-jennifer&show_icons=true&theme=radical)](https://github.com/luu-jennifer/github-readme-stats)
+##
+[![luu-jennifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=luu-jennifer&show_icons=true&theme=radical)](https://github.com/luu-jennifer/)
 
 <!--
 **luu-jennifer/luu-jennifer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

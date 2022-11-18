@@ -5,6 +5,10 @@
 
 ## ✨My name is [Jen Luu](https://jenCodes.com) & I am a Web Developer 👩🏻‍💻
 
+- currently working on:
+        - a project in Python recieving in JSON data
+        - a website for windsports addicts with wind data and weather api
+
 - 📫 Email me: jennifer-luu@outlook.com
 
 

@@ -3,9 +3,9 @@
 # ✨My name is [Jen Luu](https://jenCodes.com) & I am a Web Developer 👩🏻‍💻
 
 ### currently working on:
-- a trading app in Python recieving JSON data
 - a finance app using React and SQL
-- a React app for windsport addicts with wind data and weather api
+- a trading app in Python recieving JSON data
+- a React app for windsport addicts with wind data and weather api (also could be used for climbers and skiiers)
 
 
 ## Let's connect & collaborate 

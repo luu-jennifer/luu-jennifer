@@ -6,7 +6,7 @@
 ## ✨My name is [Jen Luu](https://jenCodes.com) & I am a Web Developer 👩🏻‍💻
 
 ### currently working on:
-        - a project in Python recieving JSON data
+        - a trading app in Python recieving JSON data
         - a React app for windsport addicts with wind data and weather api
 
 - 📫 Email me: jennifer-luu@outlook.com

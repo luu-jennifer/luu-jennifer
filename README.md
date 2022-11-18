@@ -5,7 +5,7 @@
 ### currently working on:
 - a finance app using React and SQL
 - a trading app in Python recieving JSON data
-- a React app for windsport addicts with wind data and weather api (also could be used for climbers and skiiers)
+- a React app for windsport addicts with wind data & weather API (also could be used by climbers and skiiers)
 
 
 ## Let's connect & collaborate 

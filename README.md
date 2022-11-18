@@ -1,6 +1,6 @@
-### ✨ Hello ${ Friend } ✨
+###  `Hello ${ Friend }`
 
-## ✨My name is [Jen Luu](https://jenCodes.com) & I am a Web Developer 👩🏻‍💻
+# ✨My name is [Jen Luu](https://jenCodes.com) & I am a Web Developer 👩🏻‍💻
 
 ### currently working on:
 - a trading app in Python recieving JSON data

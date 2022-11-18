@@ -1,7 +1,4 @@
 ### ✨ Hello ${ Friend } ✨
-[![Twitter Follow](https://img.shields.io/twitter/follow/jenCodes?style=social)](https://twitter.com/jenCodes) 
-[![Linkedin Follow](https://img.shields.io/badge/jenCodes-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jenCodes/) 
-
 
 ## ✨My name is [Jen Luu](https://jenCodes.com) & I am a Web Developer 👩🏻‍💻
 
@@ -9,7 +6,11 @@
 - a trading app in Python recieving JSON data
 - a React app for windsport addicts with wind data and weather api
 
-- 📫 Email me: jennifer-luu@outlook.com
+
+## Let's connect & collaborate 
+- [![Twitter Follow](https://img.shields.io/twitter/follow/jenCodes?style=social)](https://twitter.com/jenCodes) 
+- [![Linkedin Follow](https://img.shields.io/badge/jenCodes-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jenCodes/) 
+- 📫 Email: jennifer-luu@outlook.com
 
 
 ## ✨My Skills include: 

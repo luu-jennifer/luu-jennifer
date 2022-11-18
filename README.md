@@ -4,6 +4,7 @@
 
 ### currently working on:
 - a trading app in Python recieving JSON data
+- a finance app using React and SQL
 - a React app for windsport addicts with wind data and weather api
 
 

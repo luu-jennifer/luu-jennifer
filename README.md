@@ -7,7 +7,7 @@
 
 ### currently working on:
         - a project in Python recieving JSON data
-        - a website for windsports addicts with wind data and weather api
+        - a React app for windsport addicts with wind data and weather api
 
 - 📫 Email me: jennifer-luu@outlook.com
 

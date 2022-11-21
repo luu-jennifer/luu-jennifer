@@ -30,7 +30,7 @@
 </div>
 
 ##
-![luu-jennifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=luu-jennifer&show_icons=true&theme=dracula&hide=issues&count_private=true)
+[![luu-jennifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=luu-jennifer&show_icons=true&theme=dracula&hide=issues&count_private=true)](https://github.com/luu-jennifer/)
 
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luu-jennifer&langs_count=10&theme=dracula&count_private=true)](https://github.com/luu-jennifer/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luu-jennifer&langs_count=10&theme=dracula&count_private=true)](https://github.com/luu-jennifer/)

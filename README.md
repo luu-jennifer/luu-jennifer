@@ -30,9 +30,7 @@
 </div>
 
 ##
-<a href="https://github.com/luu-jennifer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luu-jennifer&show_icons=true&hide=issues" />
-</a>
-<a href="https://github.com/luu-jennifer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luu-jennifer&langs_count=8" />
-</a>
+![luu-jennifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=luu-jennifer&show_icons=true&theme=dracula&hide=issues&count_private=true)
+
+##
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luu-jennifer&langs_count=10&theme=dracula&count_private=true)](https://github.com/luu-jennifer/github-readme-stats)

@@ -33,4 +33,4 @@
 [![luu-jennifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=luu-jennifer&show_icons=true&theme=dracula&hide=issues&count_private=true)](https://github.com/luu-jennifer/)
 
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luu-jennifer&langs_count=10&theme=dracula)](https://github.com/luu-jennifer/)
+<a href="https://github.com/luu-jennifer"><img src="./assets/top-langs-luu-jennifer.png" title="top languages in Jennifer Luu's repo" alt="Git" width="300px" height="300px"/></a>

@@ -11,6 +11,7 @@
 ## Let's connect & collaborate 
 - [![Twitter Follow](https://img.shields.io/twitter/follow/jenCodes?style=social)](https://twitter.com/jenCodes) 
 - [![Linkedin Follow](https://img.shields.io/badge/jenCodes-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jenCodes/) 
+- Portfolio: [jenCodes.com](https://jenCodes.com)
 - 📫 Email: jennifer-luu@outlook.com
 
 

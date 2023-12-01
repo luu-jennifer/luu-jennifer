@@ -7,8 +7,8 @@
 - trading app in Python recieving JSON data
 
 ## Let's connect & collaborate 
-- [![Linkedin Follow](https://img.shields.io/badge/jenCodes-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jenniferwebdev/) 
-- [Portfolio:]([https://jenCodes.com](https://jenniferwebdev.netlify.app/))
+- [![Linkedin Follow](https://img.shields.io/badge/jenniferwebdev-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jenniferwebdev/) 
+- ([Portfolio:](https://jenniferwebdev.netlify.app/))
 
 
 ## ✨My Skills include: 

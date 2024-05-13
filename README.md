@@ -17,9 +17,3 @@
         <a href="https://github.com/luu-jennifer"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/></a>
         <a href="https://github.com/luu-jennifer"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="40" height="40"/></a>   
 </div>
-
-##
-[![luu-jennifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=luu-jennifer&show_icons=true&theme=dracula&hide=issues&count_private=true)](https://github.com/luu-jennifer/)
-
-##
-<a href="https://github.com/luu-jennifer"><img src="./assets/luuJenniferTopLang.png" title="top languages in Jennifer Luu's repo" alt="Git" width="300px" height="300px"/></a>

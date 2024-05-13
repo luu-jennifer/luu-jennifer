@@ -1,11 +1,3 @@
-###  `Hello ${ Friend }`
-
-# ✨My name is [Jen Luu](https://jenCodes.com) & I am a Web Developer 👩🏻‍💻
-
-### currently working on:
-- finance app using React and SQL
-- trading app in Python recieving JSON data
-
 ## Let's connect & collaborate 
 - [![Linkedin Follow](https://img.shields.io/badge/jenniferwebdev-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jenniferwebdev/) 
 - [Portfolio](https://jenniferwebdev.netlify.app/)
